@@ -1,3 +1,4 @@
+//变红色
 changeRed = function() {
 	var arrTags = document.getElementsByTagName("h1"); 
 	var l = arrTags.length;
@@ -7,6 +8,7 @@ changeRed = function() {
 	}
 }
 
+//变蓝色
 changeBlue = function() {		
 	var arrTags = document.getElementsByTagName("h1"); 
 	var l = arrTags.length;
